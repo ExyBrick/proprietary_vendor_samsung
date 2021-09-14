@@ -21,7 +21,3 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal9810-common/proprietary/etc/nfc_key:$(TARGET_COPY_OUT_SYSTEM)/etc/nfc_key \
     vendor/samsung/universal9810-common/proprietary/etc/nfcee_access.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/nfcee_access.xml \
     vendor/samsung/universal9810-common/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so
-
-PRODUCT_PACKAGES += \
-    HotwordEnrollmentOKGoogleExCORTEXM4 \
-    HotwordEnrollmentXGoogleExCORTEXM4
